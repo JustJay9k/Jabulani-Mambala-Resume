@@ -1,2 +1,1 @@
-# html-portfolio
-The first webpage I actually Hosted on GitHub
+This is my updated Resume
